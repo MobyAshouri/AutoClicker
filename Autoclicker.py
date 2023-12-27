@@ -3,6 +3,7 @@ import mouse
 import time
 import threading
 
+# press "end" to toggle autoclicker on and off
 keybind = keyboard.Key.end
 state = False
 
